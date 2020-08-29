@@ -54,6 +54,9 @@ abstract: Reports on the modulatory role of the neuropeptide oxytocin on social 
   and integrated with suggestions for the next steps in translating intranasal oxytocin
   into psychiatric applications.
 publication: '*Molecular Psychiatry*'
-url_pdf: http://www.nature.com/articles/s41380-020-00864-7
 doi: 10.1038/s41380-020-00864-7
+
+links:
+  - name: Open Access PDF
+    url: 'http://www.nature.com/articles/s41380-020-00864-7'
 ---
