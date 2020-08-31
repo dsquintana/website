@@ -42,5 +42,5 @@ links:
   - icon_pack: ai
     icon: psyarxiv
     name: Preprint PDF
-    url: 'https://osf.io/ry5x9'
+    url: 'https://osf.io/ry5x9' 
 ---
