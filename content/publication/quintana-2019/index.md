@@ -15,7 +15,7 @@ authors:
 - Knut T. Smerud
 - Per G. Djupesland
 - Ole A. Andreassen
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2019-01-01'
 lastmod: 2020-08-29T14:26:45+02:00
@@ -35,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:45.680612Z'
 publication_types:
 - 2
@@ -65,4 +65,8 @@ abstract: Little is known about how intranasally administered oxytocin reaches t
 publication: '*Neuropsychopharmacology*'
 url_pdf: https://doi.org/10.1038/s41386-018-0241-3
 doi: 10.1038/s41386-018-0241-3
+links:
+  - name: Non-paywalled PDF
+    url: 'https://rdcu.be/b6yPI'
+
 ---

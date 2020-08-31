@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Daniel S Quintana
 - James Heathers
-tags: []
+tags: ["meta-research"]
 categories: []
 date: '2020-06-01'
 lastmod: 2020-08-29T14:26:47+02:00
@@ -27,16 +27,20 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["meta-research"]
 publishDate: '2020-08-29T12:26:47.441954Z'
 publication_types:
-- 2
+- 3
 abstract: Podcasts are emerging as a popular forum for discussing scientific life.
   Here, we describe how podcasts can benefit scientific communities by disseminating
   career-specific information that is often unwritten and unavailable to those outside
   academic social knowledge networks. We also provide practical advice on how scientists
   can launch their own podcasts.
-publication: '*PsyArXiv Preprints*'
-url_pdf: https://osf.io/ry5x9
+publication: '*PsyArXiv Preprints*' 
 doi: 10.31234/osf.io/ry5x9 License
+links:
+  - icon_pack: ai
+    icon: psyarxiv
+    name: Preprint PDF
+    url: 'https://osf.io/ry5x9'
 ---

@@ -16,7 +16,7 @@ authors:
 - R. A. Mahmoud
 - P. G. Djupesland
 - O. A. Andreassen
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2016-01-01'
 lastmod: 2020-08-28T12:54:32+02:00
@@ -36,10 +36,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-28T10:54:32.500049Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'It is unclear if and how exogenous oxytocin (OT) reaches the brain to improve social behavior and cognition and what is the optimal dose for OT response. To better understand the delivery routes of intranasal OT administration to the brain and the dose-response, we compared amygdala response to facial stimuli by means of functional magnetic resonance imaging (fMRI) in four treatment conditions, including two different doses of intranasal OT using a novel Breath Powered device, intravenous (IV) OT, which provided similar concentrations of blood plasma OT, and placebo. We adopted a randomized, double-blind, double-dummy, crossover design, with 16 healthy male adults administering a single-dose of these four treatments. We observed a treatment effect on right amygdala activation during the processing of angry and happy face stimuli, with pairwise comparisons revealing reduced activation after the 8IU low dose intranasal treatment compared to placebo. These data suggest the dampening of amygdala activity in response to emotional stimuli occurs via direct intranasal delivery pathways rather than across the blood-brain barrier via systemically circulating OT.'
 publication: '*Psychoneuroendocrinology*'
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1016/j.psyneuen.2016.04.010'
+
 ---

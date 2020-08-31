@@ -12,7 +12,7 @@ authors:
 - Daniel S. Quintana
 - Julian Koenig
 - Walter G. Sannita
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2019-02-01'
 lastmod: 2020-08-29T14:26:49+02:00
@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:48.773188Z'
 publication_types:
 - 2
@@ -40,4 +40,9 @@ abstract: ''
 publication: '*Journal of Psychophysiology*'
 url_pdf: https://econtent.hogrefe.com/doi/full/10.1027/0269-8803/a000236
 doi: 10.1027/0269-8803/a000236
+
+links:
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
+
 ---

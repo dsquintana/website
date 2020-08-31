@@ -11,7 +11,7 @@ authors:
 - Jonathan Krygier
 - Andrew Kemp
 - Marc de Rosnay
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2018-02-01'
 lastmod: 2020-08-29T14:26:50+02:00
@@ -31,10 +31,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:50.389931Z'
 publication_types:
-- 2
+- 3
 abstract: Heart rate variability (HRV) is a common measure of the autonomic modulation
   of the heart. To ensure accuracy, various external factors known to affect HRV such
   as medication use and concurrent illnesses are frequently controlled during measurement.
@@ -48,8 +48,7 @@ abstract: Heart rate variability (HRV) is a common measure of the autonomic modu
   Water affects HRV in a dose-dependent manner, and exaggerates attentionally- mediated
   HRV reduction. This effect is antagonised by simultaneous mixed meal consumption,
   which strongly increases cardiac sympathetic activity. Water consumption during
-  or previous to HRV measurement should be carefully controlled, if possible. Considering
-  the diverse nature of experimental protocols and populations, we suggest a hierarchy
+  or previous to HRV measurement should be carefully controlled, if possible. Considering the diverse nature of experimental protocols and populations, we suggest a hierarchy
   of methods to control for water consumption in HRV research.
 publication: '*OSF Preprints*'
 url_pdf: https://osf.io/83exy/

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - D. S Quintana
 - G. A. Alvares
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2016-01-01'
 lastmod: 2020-08-29T14:26:51+02:00
@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:51.782807Z'
 publication_types:
 - 2
@@ -43,6 +43,9 @@ abstract: Neuropeptides are small molecules that act as messengers between diffe
   nasal spray travel from the nose to the brain, and how does it change how we behave
   socially?
 publication: '*Frontiers for Young Minds*'
-url_pdf: https://kids.frontiersin.org/article/10.3389/frym.2016.00007
 doi: 10.3389/frym.2016.00007
+
+links:
+  - name: Open Access PDF
+    url: 'https://kids.frontiersin.org/article/10.3389/frym.2016.00007'
 ---

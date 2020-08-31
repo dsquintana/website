@@ -65,6 +65,10 @@ abstract: Intranasal oxytocin (OXT) has been associated with effects on diverse 
   the self-referential bias and suggests that sensitivity to its effects in this domain
   are receptor genotype dependent.
 publication: '*Progress in Neuro-Psychopharmacology and Biological Psychiatry*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0278584619302891
 doi: 10.1016/j.pnpbp.2019.109734
+links:
+  - name: Paywalled PDF
+    url: 'http://www.sciencedirect.com/science/article/pii/S0278584619302891'
+
+
 ---

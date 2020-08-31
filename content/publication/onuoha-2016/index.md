@@ -50,6 +50,11 @@ abstract: "Aim: Research into Theory of Mind (ToM) in alcohol use disorder (AUD)
   \ misinterpreting social cues. Clinical care implications of the findings, limitations\
   \ of the study, and suggestions for future research are discussed."
 publication: '*Alcohol and Alcoholism*'
-url_pdf: https://academic.oup.com/alcalc/article/51/4/410/1740697
+
 doi: 10.1093/alcalc/agv137
+
+links:
+  - name: Open Access PDF
+    url: 'https://academic.oup.com/alcalc/article/51/4/410/1740697'
+
 ---

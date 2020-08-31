@@ -11,7 +11,7 @@ authors:
 - Iain S. McGregor
 - Ian B. Hickie
 - Andrew H. Kemp
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2013-01-01'
 lastmod: 2020-08-28T12:54:30+02:00
@@ -31,10 +31,17 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-28T10:54:30.523707Z'
 publication_types:
 - 2
 abstract: ''
 publication: '*Psychophysiology*'
+
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.12134
+
+links:
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
+
 ---

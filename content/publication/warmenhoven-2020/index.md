@@ -12,7 +12,7 @@ authors:
 - Giles Hooker
 - Edward Gunning
 - Norma Bargary
-tags: []
+tags: ["meta-research"]
 categories: []
 date: '2020-08-01'
 lastmod: 2020-08-29T14:26:46+02:00
@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["meta-research"]
 publishDate: '2020-08-29T12:26:46.781857Z'
 publication_types:
 - 3
@@ -43,9 +43,11 @@ abstract: There is an opportunity for sports medicine to progress research ideat
   lead to more sustainable use of data, particularly in the form of hypothesis generation
   through exploratory research applied to synthetic datasets.
 publication: '*SportRxiv Preprints*'
-url_pdf: https://osf.io/f3rz7
-doi: 10.31236/osf.io/f3rz7
 
+doi: 10.31236/osf.io/f3rz7
+links:
+  - name: Preprint PDF
+    url: 'https://osf.io/f3rz7'
 
 
 ---

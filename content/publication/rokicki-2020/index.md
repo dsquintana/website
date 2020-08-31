@@ -10,7 +10,7 @@ authors:
 - Jaroslav Rokicki
 - Daniel S Quintana
 - Lars T. Westlye
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2020-04-01'
 lastmod: 2020-08-29T14:26:47+02:00
@@ -30,10 +30,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:47.273691Z'
 publication_types:
-- 2
+- 6
 abstract: The measurement of gene expression levels in the human brain can help accelerate
   our understanding of complex mental states and psychiatric illnesses. Mental states
   are typically associated with whole-brain networks, however, gene expression levels
@@ -51,6 +51,8 @@ abstract: The measurement of gene expression levels in the human brain can help 
   signaling pathway as an example. We also demonstrate how to perform an out-of-sample
   validation and assess the specificity of results for genes of interest.
 publication: '*OSF Preprints*'
-url_pdf: https://osf.io/hz96u
 doi: 10.31219/osf.io/hz96u
+links:
+  - name: Preprint PDF
+    url: 'https://osf.io/hz96u'
 ---

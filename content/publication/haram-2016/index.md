@@ -16,7 +16,7 @@ authors:
 - Lars T. Westlye
 - Ole A. Andreassen
 - Ingrid Melle
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2016-01-01'
 lastmod: 2020-08-29T14:26:43+02:00
@@ -36,7 +36,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:43.651358Z'
 publication_types:
 - 2
@@ -60,6 +60,10 @@ abstract: 'Background: Oxytocin has been proposed to mediate amygdala dysfunctio
   could serve as a contributing factor in biological underpinnings of emotion processing
   and that this contribution is disorder specific.'
 publication: '*British Journal of Psychiatry Open*'
-url_pdf: https://doi.org/10.1192/bjpo.bp.116.003376
 doi: 10.1192/bjpo.bp.116.003376
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1192/bjpo.bp.116.003376'
+
 ---

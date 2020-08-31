@@ -84,7 +84,7 @@ authors:
 - Tobias Winkelmann
 - Guo-Rong Wu
 - Hyun Joo Yoo
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2018-04-01'
 lastmod: 2020-08-29T14:26:50+02:00
@@ -104,10 +104,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:50.148624Z'
 publication_types:
-- 2
+- 3
 abstract: 'Understanding the association between autonomic nervous system [ANS] function
   and brain morphology across the lifespan provides important insights into neurovisceral
   mechanisms underlying health and disease. Resting state ANS activity, indexed by

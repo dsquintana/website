@@ -11,11 +11,7 @@ authors:
 - Ramy A. Mahmoud
 - Per G. Djupesland
 - Ole A. Andreassen
-tags:
-- '"endocrinology"'
-- '"neuropeptides"'
-- '"oxytocin"'
-- '"vasopressin"'
+tags: ["oxytocin"]
 categories: []
 date: '2017-10-01'
 lastmod: 2020-08-29T14:26:51+02:00
@@ -35,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:51.370783Z'
 publication_types:
 - 2
@@ -56,4 +52,9 @@ abstract: 'Objective: The neuropeptides oxytocin (OT) and arginine vasopressin (
 publication: '*Acta Neuropsychiatrica*'
 url_pdf: https://www.cambridge.org/core/journals/acta-neuropsychiatrica/article/reliability-of-basal-plasma-vasopressin-concentrations-in-healthy-male-adults/73312A4558CE66D28EB7F90013F8E8D5
 doi: 10.1017/neu.2016.67
+
+
+links:
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
 ---

@@ -9,7 +9,7 @@ authors:
 - G. A. Alvares
 - D. S. Quintana
 - Andrew JO Whitehouse
-tags: []
+tags: ["oxytocin", "asd"]
 categories: []
 date: '2017-01-01'
 lastmod: 2020-08-29T14:26:43+02:00
@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin", "asd"]
 publishDate: '2020-08-29T12:26:43.173236Z'
 publication_types:
 - 2
@@ -55,4 +55,8 @@ abstract: Extensive research efforts in the last decade have been expended into 
 publication: '*Autism Research*'
 url_pdf: https://doi.org/10.1002/aur.1692
 doi: 10.1002/aur.1692
+
+links:
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
 ---

@@ -12,7 +12,7 @@ authors:
 - A. R. Lloyd
 - I. B. Hickie
 - A. J. Guastella
-tags: []
+tags: ["asd"]
 categories: []
 date: '2015-01-01'
 lastmod: 2020-08-29T14:26:44+02:00
@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["asd"]
 publishDate: '2020-08-29T12:26:44.801933Z'
 publication_types:
 - 2
@@ -56,6 +56,9 @@ abstract: The role of non-diagnostic features in the pathophysiology of autism s
   concentrations of cytokines in ASD compared to HCs, strengthening evidence of an
   abnormal cytokine profile in ASD where inflammatory signals dominate.
 publication: '*Molecular Psychiatry*'
-url_pdf: https://doi.org/10.1038/mp.2014.59
 doi: 10.1038/mp.2014.59
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1038/mp.2014.59'
 ---

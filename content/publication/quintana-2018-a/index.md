@@ -10,29 +10,7 @@ authors:
 - Knut T. Smerud
 - Ole A. Andreassen
 - Per G. Djupesland
-tags:
-- '"Absorption"'
-- '"Physiological"'
-- '"Administration"'
-- '"Intranasal"'
-- '"Animals"'
-- '"Behavior"'
-- '"Animal"'
-- '"Brain"'
-- '"Disease Models"'
-- '"Animal"'
-- '"drug delivery"'
-- '"Excipients"'
-- '"Humans"'
-- '"intranasal"'
-- '"Mental Disorders"'
-- '"Nasal Mucosa"'
-- '"neuropeptide"'
-- '"oxytocin"'
-- '"Oxytocin"'
-- '"psychiatry"'
-- '"social behavior"'
-- '"Social Behavior"'
+tags: ["oxytocin"]
 categories: []
 date: '2018-01-01'
 lastmod: 2020-08-29T14:26:46+02:00
@@ -52,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:45.963238Z'
 publication_types:
 - 2
@@ -69,6 +47,8 @@ abstract: The neuropeptide oxytocin plays an evolutionarily conserved role in ma
   oxytocin delivery via improved intranasal delivery technology and dose-ranging studies
   are discussed.
 publication: '*Therapeutic Delivery*'
-url_pdf: https://doi.org/10.4155/tde-2018-0002
 doi: 10.4155/tde-2018-0002
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.4155/tde-2018-0002'
 ---

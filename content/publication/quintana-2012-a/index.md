@@ -9,7 +9,7 @@ authors:
 - Daniel S. Quintana
 - James AJ Heathers
 - Andrew H. Kemp
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2012-01-01'
 lastmod: 2020-08-28T12:54:31+02:00
@@ -29,10 +29,16 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-28T10:54:31.633510Z'
 publication_types:
 - 2
 abstract: ''
 publication: '*European Journal of Applied Physiology*'
+url_pdf: https://link.springer.com/article/10.1007/s00421-012-2453-2
+
+links:
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
+
 ---

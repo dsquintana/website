@@ -11,7 +11,7 @@ authors:
 - Daniel S. Quintana
 - Ian B. Hickie
 - Adam J. Guastella
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2014-01-01'
 lastmod: 2020-08-29T14:26:45+02:00
@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:44.954068Z'
 publication_types:
 - 2
@@ -55,4 +55,9 @@ abstract: 'Background: The inability to regulate autonomic activity during socia
 publication: '*Journal of Child Psychology and Psychiatry*'
 url_pdf: https://doi.org/10.1111/jcpp.12226
 doi: 10.1111/jcpp.12226
+
+links:
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
+
 ---

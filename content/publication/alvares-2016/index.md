@@ -10,7 +10,7 @@ authors:
 - D. S. Quintana
 - I. B. Hickie
 - A. J. Guastella
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2016-01-01'
 lastmod: 2020-08-29T14:26:42+02:00
@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:42.636208Z'
 publication_types:
 - 2
@@ -59,6 +59,9 @@ abstract: 'Background: Autonomic nervous system (ANS) dysfunction is a putative 
   in these groups, highlighting a need for treatment providers to consider modifiable
   cardiovascular risk factors to attenuate this risk.'
 publication: '*Journal of Psychiatry and Neuroscience*'
-url_pdf: https://doi.org/10.1503/jpn.140217
 doi: 10.1503/jpn.140217
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1503/jpn.140217'
 ---

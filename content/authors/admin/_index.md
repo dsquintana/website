@@ -18,12 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Oxytocin signalling
-- Heart rate variability
-- Meta-research
+bio: Investigating the oxytocin system, heart rate variability, social behavior, and meta-science.
 
 education:
   courses:
@@ -51,6 +46,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dsquintana
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/dsquintana/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/dsquintana.research/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/user/dsquintana85
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Daniel S. Quintana is a researcher in biological psychiatry at the University of Oslo. His research interests include social behavior, the oxytocin system, heart rate variability, and meta-analysis. 
+Daniel S. Quintana is a researcher in biological psychiatry at the University of Oslo. His research interests include social behavior, the oxytocin system, heart rate variability, autism spectrum disorder, and meta-analysis. 
 
 He currently leads a project investigating the role of the oxytocin system in the development of severe mental illness and metabolic disorder, which is supported by an Excellence Project for Young Researchers grant from the Novo Nordisk Foundation.
 

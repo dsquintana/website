@@ -11,7 +11,7 @@ tags:
 - '"data"'
 - '"meta-research"'
 - '"statistics"'
-categories: []
+categories: ["meta-research"]
 date: '2020-03-01'
 lastmod: 2020-08-28T13:01:37+02:00
 featured: false
@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["meta-research"]
 publishDate: '2020-08-28T11:01:37.125295Z'
 publication_types:
 - 2
@@ -48,6 +48,14 @@ abstract: Open research data provide considerable scientific, societal, and econ
   that could not otherwise be made open, researchers can ensure the reproducibility
   of their results and facilitate data exploration while maintaining participant privacy.
 publication: '*eLife*'
-url_pdf: https://doi.org/10.7554/eLife.53275
+
 doi: 10.7554/eLife.53275
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.7554/eLife.53275'
+  - name: Data and analysis scripts
+    url: 'https://github.com/dsquintana/synthpop-primer'
+  - name: Executable analysis script
+    url: 'https://mybinder.org/v2/gh/dsquintana/synthpop-primer/master?urlpath=rstudio'
 ---

@@ -10,7 +10,7 @@ authors:
 - G. A. Alvares
 - A. J. Guastella
 - D. S. Quintana
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2016-01-01'
 lastmod: 2020-08-29T14:26:43+02:00
@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:43.815583Z'
 publication_types:
 - 2
@@ -50,4 +50,7 @@ abstract: 'The vagus nerve is a major constituent in the bidirectional relations
 publication: '*Journal of Psychophysiology*'
 url_pdf: https://psycnet.apa.org/doi/10.1027/0269-8803/a000152
 doi: 10.1027/0269-8803/a000152
+links:
+  - name: Accepted manuscript PDF
+    url: 'https://osf.io/nxg6a/'
 ---

@@ -9,7 +9,7 @@ authors:
 - Daniel S. Quintana
 - Maree J. Abbott
 - Andrew H. Kemp
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2014-01-01'
 lastmod: 2020-08-29T14:26:43+02:00
@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:43.335753Z'
 publication_types:
 - 2
@@ -53,6 +53,9 @@ abstract: 'Background: Anxiety disorders increase risk of future cardiovascular 
   well-being of patients, highlighting a need for comprehensive cardiovascular risk
   reduction.'
 publication: '*Frontiers in Psychiatry*'
-url_pdf: https://www.frontiersin.org/article/10.3389/fpsyt.2014.00080
 doi: 10.3389/fpsyt.2014.00080
+links:
+  - name: Open Access PDF
+    url: 'https://www.frontiersin.org/article/10.3389/fpsyt.2014.00080'
+
 ---

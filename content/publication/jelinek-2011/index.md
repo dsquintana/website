@@ -11,27 +11,7 @@ authors:
 - D S Quintana
 - Md Hasan Imam
 - A H Kemp
-tags:
-- '"Atmospheric measurements"'
-- '"CCM"'
-- '"complex correlation measure"'
-- '"Correlation"'
-- '"ECG recordings"'
-- '"Educational institutions"'
-- '"electrocardiography"'
-- '"heart rate variability"'
-- '"Heart rate variability"'
-- '"HRV dynamics"'
-- '"Interviews"'
-- '"major depressive disorder"'
-- '"medical disorders"'
-- '"nonlinear parameter"'
-- '"oscillations"'
-- '"parasympathetic function"'
-- '"parasympathetic input"'
-- '"Particle measurements"'
-- '"Physiology"'
-- '"sudden cardiac death"'
+tags: ["hrv"]
 categories: []
 date: '2011-01-01'
 lastmod: 2020-08-29T14:26:52+02:00
@@ -51,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:52.792726Z'
 publication_types:
 - 2
@@ -68,5 +48,5 @@ abstract: Heart rate variability (HRV) is reduced in patients with Major Depress
   measure of HRV, which provides additional information on HRV dynamics compared to
   SD1 and SD2 of the Poincaré plot distribution.
 publication: '*Computing in Cardiology*'
-url_pdf: https://ieeexplore.ieee.org/abstract/document/6164689
+url_pdf: http://cinc.mit.edu/archives/2011/pdf/0809.pdf
 ---

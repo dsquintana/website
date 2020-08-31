@@ -8,7 +8,7 @@ summary: ''
 authors:
 - A. H. Kemp
 - D. S. Quintana
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2017-09-01'
 lastmod: 2020-08-29T14:26:50+02:00
@@ -28,7 +28,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:50.779754Z'
 publication_types:
 - 6
@@ -37,4 +37,8 @@ abstract: Research on heart rate variability (HRV) has been conducted for more t
 publication: '*ECG Time Series Variability Analysis*'
 url_pdf: http://www.taylorfrancis.com/
 doi: 10.4324/9781315372921-15
+
+links:
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
 ---

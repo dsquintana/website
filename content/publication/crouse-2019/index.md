@@ -9,15 +9,7 @@ authors:
 - Jacob J. Crouse
 - Daniel S. Quintana
 - Daniel F. Hermens
-tags:
-- '"Alcohol"'
-- '"Amphetamines"'
-- '"Bottom-up"'
-- '"Cannabis"'
-- '"Ketamine"'
-- '"Preattentional sensory processing"'
-- '"Psychosis"'
-- '"Social cognition"'
+tags: ["social-behavior"]
 categories: []
 date: '2019-01-01'
 lastmod: 2020-08-29T14:26:49+02:00
@@ -37,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["social-behavior"]
 publishDate: '2020-08-29T12:26:49.245015Z'
 publication_types:
 - 6
@@ -57,4 +49,8 @@ abstract: The relationship between substance misuse and psychosis is markedly co
 publication: '*Social Cognition in Psychosis*'
 url_pdf: http://www.sciencedirect.com/science/article/pii/B9780128153154000082
 doi: 10.1016/B978-0-12-815315-4.00008-2
+
+links:
+  - name: Preprint PDF
+    url: 'https://osf.io/ucv7s/'
 ---

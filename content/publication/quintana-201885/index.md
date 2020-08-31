@@ -12,12 +12,7 @@ authors:
 - Ramy A. Mahmoud
 - Ole A. Andreassen
 - Per G. Djupesland
-tags:
-- '"Endocrinology"'
-- '"Neuropeptides"'
-- '"Oxytocin"'
-- '"Plasma"'
-- '"Saliva"'
+tags: ["oxytocin"]
 categories: []
 date: '2018-01-01'
 lastmod: 2020-08-29T14:26:45+02:00
@@ -37,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:45.542442Z'
 publication_types:
 - 2
@@ -62,4 +57,8 @@ abstract: Oxytocin plays an important role in social behavior. Thus, there has b
 publication: '*Hormones and Behavior*'
 url_pdf: http://www.sciencedirect.com/science/article/pii/S0018506X18301284
 doi: https://doi.org/10.1016/j.yhbeh.2018.05.004
+
+links:
+  - name: Preprint PDF
+    url: 'https://osf.io/s7ngd/'
 ---

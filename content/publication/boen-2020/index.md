@@ -4,13 +4,13 @@
 title: 'Age-related differences in the error-related negativity and error positivity
   in children and adolescents: a systematic review and meta-analysis protocol'
 subtitle: ''
-summary: ''
+summary: 'The main objectives of this systematic review and meta-analysis are to evaluate the effect of age on error-related negativity (ERN) and the error positivity (Pe) magnitude in children and adolescents, and to examine potential moderators of these effects, including age, sex, experimental task, task difficulty, and topography and quantification of the ERN and the Pe'
 authors:
 - Rune Boen
 - Daniel S Quintana
 - Cecile Ladouceur
 - Christian K. Tamnes
-tags: []
+tags: ["social-behavior"]
 categories: []
 date: '2020-08-01'
 lastmod: 2020-08-29T14:26:47+02:00
@@ -30,10 +30,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["social-behavior"]
 publishDate: '2020-08-29T12:26:46.952196Z'
 publication_types:
-- 2
+- 3
 abstract: 'Background: The error-related negativity (ERN) and the error positivity
   (Pe) are electrophysiological signals linked to error processing, a crucial aspect
   of self-monitoring and regulation. Previous research suggests different developmental

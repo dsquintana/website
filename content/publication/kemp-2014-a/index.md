@@ -12,14 +12,7 @@ authors:
 - Candice R. Quinn
 - Patrick Hopkinson
 - Anthony W. F. Harris
-tags:
-- '"ECG"'
-- '"electrocardiogram"'
-- '"Heart Rate"'
-- '"Heart rate variability"'
-- '"melancholia"'
-- '"non-melancholia"'
-- '"resting state"'
+tags: ["hrv"]
 categories: []
 date: '2014-01-01'
 lastmod: 2020-08-29T14:26:52+02:00
@@ -39,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:52.594835Z'
 publication_types:
 - 2
@@ -66,6 +59,9 @@ abstract: 'Background: Major depressive disorder (MDD) is associated with increa
   with melancholia including somatic symptoms, cognitive impairment, reduced responsiveness
   to the environment, and over the longer-term, morbidity and mortality.'
 publication: '*Frontiers in Psychology*'
-url_pdf: https://doi.org/10.3389/fpsyg.2014.01387
 doi: 10.3389/fpsyg.2014.01387
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.3389/fpsyg.2014.01387'
+
 ---

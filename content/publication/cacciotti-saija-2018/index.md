@@ -10,13 +10,7 @@ authors:
 - Gail A. Alvares
 - Ian B. Hickie
 - Adam J. Guastella
-tags:
-- '"Cardiovascular disease"'
-- '"First episode psychosis"'
-- '"Heart rate variability"'
-- '"Neuroleptics"'
-- '"Schizophrenia"'
-- '"Social anxiety disorder"'
+tags: ["hrv"]
 categories: []
 date: '2018-11-01'
 lastmod: 2020-08-29T14:26:49+02:00
@@ -36,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:49.464198Z'
 publication_types:
 - 2
@@ -61,4 +55,8 @@ abstract: Reduced cardiac autonomic function is associated with increased risk o
 publication: '*Psychiatry Research*'
 url_pdf: http://www.sciencedirect.com/science/article/pii/S0165178117316311
 doi: 10.1016/j.psychres.2018.08.068
+
+links:
+  - name: Preprint PDF
+    url: 'https://osf.io/ng963/'
 ---

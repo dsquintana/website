@@ -13,12 +13,7 @@ authors:
 - Tracey W. Tsang
 - Simon Clarke
 - Michael R. Kohn
-tags:
-- '"Attention"'
-- '"Attention deficit hyperactivity disorder"'
-- '"Autonomic nervous system"'
-- '"Heart rate variability"'
-- '"Paediatric"'
+tags: ["hrv"]
 categories: []
 date: '2017-03-01'
 lastmod: 2020-08-29T14:26:51+02:00
@@ -38,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:50.974344Z'
 publication_types:
 - 2
@@ -66,4 +61,8 @@ abstract: 'The autonomic nervous system (ANS) plays an important role in attenti
 publication: '*Biological Psychology*'
 url_pdf: http://www.sciencedirect.com/science/article/pii/S0301051117300042
 doi: 10.1016/j.biopsycho.2017.01.004
+links:
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
+
 ---

@@ -10,7 +10,7 @@ authors:
 - Nils Eiel Steen
 - Ole A. Andreassen
 - Daniel S Quintana
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2020-04-01'
 lastmod: 2020-08-29T14:26:46+02:00
@@ -30,10 +30,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:46.405871Z'
 publication_types:
-- 2
+- 3
 abstract: The neuropeptide oxytocin has been popularized for its role in social behaviour
   and nominated as a candidate treatment for several psychiatric illnesses.However,
   results so far have failed to reliably translate from animal models to human research.
@@ -46,6 +46,9 @@ abstract: The neuropeptide oxytocin has been popularized for its role in social 
   article, weoutline how the precision of intranasal oxytocin research can be improved
   by the complementary consideration of methodology, theory, and reproducibility.
 publication: '*OSF Preprints*'
-url_pdf: https://osf.io/gz5jb
 doi: 10.31219/osf.io/gz5jb
+
+links:
+  - name: Preprint PDF
+    url: 'https://osf.io/gz5jb'
 ---

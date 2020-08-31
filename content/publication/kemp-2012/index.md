@@ -12,7 +12,7 @@ authors:
 - Kristi Griffiths
 - Ian B. Hickie
 - Adam J. Guastella
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2012-08-01'
 lastmod: 2020-08-29T14:26:44+02:00
@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:44.648995Z'
 publication_types:
 - 2
@@ -63,6 +63,10 @@ abstract: 'Context: Oxytocin (OT) plays a key regulatory role in human social be
   of response to OT nasal spray that can be incorporated into research on response
   to treatment.'
 publication: '*PLoS ONE*'
-url_pdf: https://doi.org/10.1371/journal.pone.0044014
 doi: 10.1371/journal.pone.0044014.g002
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1371/journal.pone.0044014'
+
 ---

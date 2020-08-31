@@ -11,29 +11,7 @@ authors:
 - K. L. Felmingham
 - S. Matthews
 - H. F. Jelinek
-tags:
-- '"adult"'
-- '"age"'
-- '"alcohol consumption"'
-- '"article"'
-- '"body mass"'
-- '"cardiovascular risk"'
-- '"case control study"'
-- '"community"'
-- '"comorbidity"'
-- '"controlled study"'
-- '"electrocardiography"'
-- '"female"'
-- '"gender"'
-- '"generalized anxiety disorder"'
-- '"heart rate variability"'
-- '"human"'
-- '"major clinical study"'
-- '"major depression"'
-- '"male"'
-- '"panic"'
-- '"posttraumatic stress disorder"'
-- '"risk reduction"'
+tags: ["hrv"]
 categories: []
 date: '2012-01-01'
 lastmod: 2020-08-29T14:26:44+02:00
@@ -53,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:44.173353Z'
 publication_types:
 - 2
@@ -84,6 +62,10 @@ abstract: 'Context: There is evidence that heart rate variability (HRV) is reduc
   reduction strategies in otherwise healthy patients with psychiatric illness are
   discussed. (copyright) 2012 Kemp et al.'
 publication: '*PLoS ONE*'
-url_pdf: https://doi.org/10.1371/journal.pone.0030777
 doi: 10.1371/journal.pone.0030777
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1371/journal.pone.0030777'
+
 ---

@@ -200,6 +200,10 @@ abstract: Carriers of large recurrent copy number variants (CNVs) have a higher 
   a specific effect on subcortical brain structures, suggesting a neuropathological
   pattern underlying the neurodevelopmental syndromes.
 publication: '*Molecular Psychiatry*'
-url_pdf: http://www.nature.com/articles/s41380-018-0118-1
+
 doi: 10.1038/s41380-018-0118-1
+
+links:
+  - name: Open Access PDF
+    url: 'http://www.nature.com/articles/s41380-018-0118-1'
 ---

@@ -18,15 +18,7 @@ authors:
 - Tobias Kaufmann
 - Ole A. Andreassen
 - Lars T. Westlye
-tags:
-- '"Attention"'
-- '"Behavior"'
-- '"Electrocardiography"'
-- '"Heart rate"'
-- '"Magnetic resonance imaging"'
-- '"Sleep"'
-- '"Sleep deprivation"'
-- '"Vigilance"'
+tags: ["hrv"]
 categories: []
 date: '2017-02-01'
 lastmod: 2020-08-29T14:26:51+02:00
@@ -46,7 +38,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:51.177336Z'
 publication_types:
 - 2
@@ -66,6 +58,10 @@ abstract: 'Heart rate variability (HRV) has become an increasingly popular index
   that a day of wake and a night of laboratory-induced sleep deprivation do not alter
   supine high frequency HRV in young healthy male adults.'
 publication: '*PLOS ONE*'
-url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170921
 doi: 10.1371/journal.pone.0170921
+
+links:
+  - name: Open Access PDF
+    url: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170921'
+
 ---

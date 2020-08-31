@@ -11,7 +11,7 @@ authors:
 - Tim Outhred
 - Ian B. Hickie
 - Andrew H. Kemp
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2012-09-01'
 lastmod: 2020-08-28T12:54:31+02:00
@@ -31,11 +31,17 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-28T10:54:30.783152Z'
 publication_types:
 - 2
 abstract: International Journal of Psychophysiology, doi:10.1016/j.ijpsycho.2012.08.012
 publication: '*International Journal of Psychophysiology*'
 doi: 10.1016/j.ijpsycho.2012.08.012
+url_pdf: https://doi.org/10.1016/j.ijpsycho.2012.08.012
+
+links:
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
+
 ---

@@ -13,7 +13,7 @@ authors:
 - B. Paleczny
 - B. Ponikowska
 - D. P. Danel
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2019-09-01'
 lastmod: 2020-08-29T14:26:48+02:00
@@ -33,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:48.225651Z'
 publication_types:
 - 2
@@ -51,6 +51,9 @@ abstract: "Heart rate variability (HRV) is a widely used measure that reflects a
   \ suggests that attentional performance from D2 subtest-to-subtest may reflect HRV's\
   \ facilitation of behaviour flexibility."
 publication: '*International Journal of Psychophysiology*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0167876019301898
 doi: 10.1016/j.ijpsycho.2019.06.017
+links:
+  - name: Publisher's PDF version
+    url: 'http://www.sciencedirect.com/science/article/pii/S0167876019301898'
+
 ---

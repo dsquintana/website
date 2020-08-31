@@ -3,7 +3,7 @@
 
 title: Oxytocin pathway gene networks in the human brain
 subtitle: ''
-summary: ''
+summary: 'Using voxel-by-voxel gene expression brain maps generated via human post-mortem tissue, this analysis revealed expression of critical oxytocin pathway genes (OXTR, OXT, CD38) are enriched in subcortical and olfactory regions. fMRI meta-analysis revealed that these oxytocin pathway gene maps correspond with the processing of anticipatory, appetitive, and aversive cognitive states.'
 authors:
 - D. S. Quintana
 - Jaroslav Rokicki
@@ -14,11 +14,11 @@ authors:
 - Ingrid Dieset
 - Ole A. Andreassen
 - Lars T. Westlye
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2019-02-01'
 lastmod: 2020-08-28T12:57:59+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -34,7 +34,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-28T10:57:59.041916Z'
 publication_types:
 - 2
@@ -53,6 +53,11 @@ abstract: 'Oxytocin is a neuropeptide involved in animal and human reproductive 
   and muscarinic acetylcholine signaling to modulate cognitive state processes involved
   in complex human behaviors.'
 publication: '*Nature Communications*'
-url_pdf: https://doi.org/10.1038/s41467-019-08503-8
 doi: 10.1038/s41467-019-08503-8
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1038/s41467-019-08503-8'
+  - name: Data and analysis scripts
+    url: 'https://osf.io/jp6zs/'
 ---

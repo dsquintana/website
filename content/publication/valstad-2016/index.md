@@ -11,7 +11,7 @@ authors:
 - O. A. Andreassen
 - L. T. Westlye
 - D. S. Quintana
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2016-01-01'
 lastmod: 2020-08-29T14:26:45+02:00
@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:45.097453Z'
 publication_types:
 - 2
@@ -56,6 +56,10 @@ abstract: 'Background: Research examining the effects of oxytocin (OT) intervent
   If significant associations are observed, evidence would provide a rationale for
   future research to use peripheral measures as a proxy for central OT concentrations.'
 publication: '*Systematic Reviews*'
-url_pdf: https://doi.org/10.1186/s13643-016-0225-5
 doi: 10.1186/s13643-016-0225-5
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1186/s13643-016-0225-5'
+
 ---

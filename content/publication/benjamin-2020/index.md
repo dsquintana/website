@@ -20,7 +20,7 @@ authors:
 - Ole A. Andreassen
 - Lars T. Westlye
 - Daniel S Quintana
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2020-04-01'
 lastmod: 2020-08-29T14:26:47+02:00
@@ -40,10 +40,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:47.115009Z'
 publication_types:
-- 2
+- 3
 abstract: 'Background: While a growing literature links cardiac autonomic dysregulation
   to a variety of psychiatric disorders, the relationship between cardiac autonomic
   functioning and specific symptoms in schizophrenia (SZ) and bipolar disorder (BD)

@@ -16,7 +16,7 @@ authors:
 - Jarle Johannessen
 - Merete G. Øie
 - Ole A. Andreassen
-tags: []
+tags: ["asd"]
 categories: []
 date: '2018-12-01'
 lastmod: 2020-08-29T14:26:50+02:00
@@ -36,10 +36,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["asd"]
 publishDate: '2020-08-29T12:26:50.579368Z'
 publication_types:
-- 2
+- 3
 abstract: The prevalence of autism spectrum disorder (ASD) in boys is nearly four
   times higher than in girls, and the causes of this sex difference are not fully
   known. Difficulties in executive function may be involved in development of autistic
@@ -58,6 +58,10 @@ abstract: The prevalence of autism spectrum disorder (ASD) in boys is nearly fou
   of ASD and may suggest that boys and girls can benefit from different intervention
   strategies.
 publication: '*bioRxiv*'
-url_pdf: https://www.biorxiv.org/content/10.1101/501932v1
 doi: 10.1101/501932
+
+links:
+  - name: Preprint PDF
+    url: 'https://www.biorxiv.org/content/10.1101/501932v1'
+
 ---

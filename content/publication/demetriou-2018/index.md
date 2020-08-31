@@ -13,7 +13,7 @@ authors:
 - J. E. Pye
 - I. Hickie
 - A. J. Guastella
-tags: []
+tags: ["asd"]
 categories: []
 date: '2018-05-01'
 lastmod: 2020-08-29T14:26:50+02:00
@@ -33,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["asd"]
 publishDate: '2020-08-29T12:26:49.929150Z'
 publication_types:
 - 2
@@ -61,6 +61,10 @@ abstract: Evidence of executive dysfunction in autism spectrum disorders (ASD) a
   Development of feasible EF measures focussing on clinical sensitivity for diagnosis
   and treatment studies should be a priority.
 publication: '*Molecular Psychiatry*'
-url_pdf: http://www.nature.com/articles/mp201775
 doi: 10.1038/mp.2017.75
+
+links:
+  - name: Open Access PDF
+    url: 'http://www.nature.com/articles/mp201775'
+
 ---

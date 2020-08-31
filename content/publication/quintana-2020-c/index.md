@@ -4,7 +4,7 @@
 title: 'Advances in the field of intranasal oxytocin research: lessons learned and
   future directions for clinical research'
 subtitle: ''
-summary: ''
+summary: 'In this review we outline recent advances from human and animal research that provide converging evidence for functionally relevant effects of the intranasal oxytocin administration route, suggesting that direct nose-to-brain delivery underlies the behavioral effects of oxytocin on social cognition and behavior'
 authors:
 - Daniel S. Quintana
 - Alexander Lischke
@@ -12,7 +12,7 @@ authors:
 - Dirk Scheele
 - Yina Ma
 - Benjamin Becker
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2020-08-01'
 lastmod: 2020-08-28T13:02:11+02:00
@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-28T11:02:11.014340Z'
 publication_types:
 - 2

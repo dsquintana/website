@@ -11,11 +11,7 @@ authors:
 - Katharine L. Loeb
 - Scott Griffiths
 - Daniel Le Grange
-tags:
-- '"Anorexia nervosa"'
-- '"eating disorders"'
-- '"meta-analysis"'
-- '"treatment outcome"'
+tags: ["meta-research"]
 categories: []
 date: '2019-03-01'
 lastmod: 2020-08-29T14:26:48+02:00
@@ -35,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["meta-research"]
 publishDate: '2020-08-29T12:26:48.569345Z'
 publication_types:
 - 2
@@ -63,4 +59,14 @@ abstract: 'Background: To determine the impact of specialized treatments, relati
 publication: '*Psychological Medicine*'
 url_pdf: https://www.cambridge.org/core/journals/psychological-medicine/article/treatment-outcomes-for-anorexia-nervosa-a-systematic-review-and-metaanalysis-of-randomized-controlled-trials/AB05A8856C66EA5AD99AD9B2DF1C1F80
 doi: 10.1017/S0033291718002088
+
+links:
+  - name: Preprint PDF
+    url: 'https://osf.io/uchfk/'
+  - name: Data and analysis scripts
+    url: 'https://osf.io/q7v2d/'
+
+
+
+
 ---

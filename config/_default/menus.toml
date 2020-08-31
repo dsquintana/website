@@ -9,24 +9,39 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research"
+  url = "#projects"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Publications"
+  url = "/publication/"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Talks"
+  url = "/talk/"
   weight = 40
+
+[[main]]
+  name = "Blog"
+  url = "https://www.dsquintana.blog/"
+  weight = 50
+
+[[main]]
+  name = "Podcasts"
+  url = "/podcasts"
+  weight = 50
+
+[[main]]
+  name = "CV"
+  url = "files/cv.pdf"
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

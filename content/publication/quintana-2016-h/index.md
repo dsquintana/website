@@ -11,7 +11,7 @@ authors:
 - Lars T. Westlye
 - Gin S. Malhi
 - Ole A. Andreassen
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2016-11-01'
 lastmod: 2020-08-29T14:26:51+02:00
@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:51.589407Z'
 publication_types:
 - 2
@@ -47,6 +47,9 @@ abstract: Converging evidence demonstrates the important role of the neuropeptid
   The aim of this meta-analysis is to synthesize data examining the impact of intranasal
   OT administration on neural activity.
 publication: '*Systematic Reviews*'
-url_pdf: https://doi.org/10.1186/s13643-016-0386-2
 doi: 10.1186/s13643-016-0386-2
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1186/s13643-016-0386-2'
 ---

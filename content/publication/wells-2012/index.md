@@ -11,7 +11,7 @@ authors:
 - James AJ Heathers
 - Daniel S. Quintana
 - Andrew H. Kemp
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2012-01-01'
 lastmod: 2020-08-29T14:26:45+02:00
@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:45.395060Z'
 publication_types:
 - 2
@@ -61,6 +61,10 @@ abstract: 'Background: Musical performance is a skilled activity performed under
   anxiety. Future research is needed to further examine the effects of HRV BF as a
   low-cost, non-pharmacological treatment for music performance anxiety.'
 publication: '*PLOS ONE*'
-url_pdf: https://doi.org/10.1371/journal.pone.0046597
+
 doi: 10.1371/journal.pone.0046597
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1371/journal.pone.0046597'
 ---

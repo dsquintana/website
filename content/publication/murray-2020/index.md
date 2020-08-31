@@ -12,11 +12,7 @@ authors:
 - Deborah Mitchison
 - Scott Griffiths
 - Jason M. Nagata
-tags:
-- '"anorexia nervosa"'
-- '"clinical trials"'
-- '"ClinicalTrials.gov"'
-- '"methodological bias"'
+tags: ["meta-research"]
 categories: []
 date: '2020-01-01'
 lastmod: 2020-08-29T14:26:47+02:00
@@ -36,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["meta-research"]
 publishDate: '2020-08-29T12:26:47.762999Z'
 publication_types:
 - 2
@@ -57,6 +53,10 @@ abstract: 'Objective: Treatment outcomes for anorexia nervosa (AN) remain modest
   may have a significant impact both on what appears in the current evidence base,
   and on the reproducibility of studies comprising this evidence base.'
 publication: '*International Journal of Eating Disorders*'
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/eat.23187
 doi: 10.1002/eat.23187
+
+links:
+  - name: Open Access PDF
+    url: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/eat.23187'
+
 ---

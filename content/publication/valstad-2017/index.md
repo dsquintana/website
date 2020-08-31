@@ -13,7 +13,7 @@ authors:
 - Ole A. Andreassen
 - Lars T. Westlye
 - Daniel S. Quintana
-tags: []
+tags: ["oxytocin"]
 categories: []
 date: '2017-01-01'
 lastmod: 2020-08-29T14:26:45+02:00
@@ -33,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["oxytocin"]
 publishDate: '2020-08-29T12:26:45.244520Z'
 publication_types:
 - 2
@@ -56,4 +56,10 @@ abstract: There is growing interest in the role of the oxytocin system in social
 publication: '*Neuroscience and Biobehavioral Reviews*'
 url_pdf: https://doi.org/10.1016/j.neubiorev.2017.04.017
 doi: 10.1016/j.neubiorev.2017.04.017
+
+links:
+  - name: Accepted manuscript PDF
+    url: 'https://www.duo.uio.no/bitstream/handle/10852/62727/4/Valstad-et-al-NBR.pdf'
+  - name: Data and analysis scripts
+    url: 'https://osf.io/aj55y/'
 ---

@@ -4,7 +4,7 @@
 title: Multimodal imaging improves brain age prediction and reveals distinct abnormalities
   in patients with psychiatric and neurological disorders
 subtitle: ''
-summary: ''
+summary: 'Combining multiple MRI modalities improves brain age prediction and reveals distinct deviations in patients with psychiatric and neurological disorders'
 authors:
 - Jaroslav Rokicki
 - Thomas Wolfers
@@ -26,7 +26,7 @@ authors:
 - Ole A. Andreassen
 - Tobias Kaufmann
 - Lars Tjelta Westlye
-tags: []
+tags: ["asd"]
 categories: []
 date: '2020-07-01'
 lastmod: 2020-08-29T14:26:47+02:00
@@ -46,10 +46,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["asd"]
 publishDate: '2020-08-29T12:26:47.622028Z'
 publication_types:
-- 2
+- 3
 abstract: 'Background: The deviation between chronological age and age predicted using
   brain MRI is a putative marker of brain health and disease-related deterioration.
   Age prediction based on structural MRI data shows high accuracy and sensitivity
@@ -80,6 +80,9 @@ abstract: 'Background: The deviation between chronological age and age predicted
   suggest metabolic and neurovascular aberrations in SZ and at-risk and early stage
   dementia.'
 publication: '*medRxiv*'
-url_pdf: https://www.medrxiv.org/content/10.1101/2020.06.29.20142810v1
 doi: 10.1101/2020.06.29.20142810
+
+links:
+  - name: Preprint PDF
+    url: 'https://www.medrxiv.org/content/10.1101/2020.06.29.20142810v1'
 ---

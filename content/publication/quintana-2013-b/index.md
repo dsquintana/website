@@ -11,36 +11,7 @@ authors:
 - I. S. McGregor
 - I. B. Hickie
 - A. H. Kemp
-tags:
-- '"adult"'
-- '"article"'
-- '"autonomic nervous system"'
-- '"controlled study"'
-- '"female"'
-- '"heart rate variability"'
-- '"human"'
-- '"male"'
-- '"priority journal"'
-- '"clinical article"'
-- '"antidepressant agent"'
-- '"aged"'
-- '"anxiety"'
-- '"alcoholism"'
-- '"withdrawal syndrome"'
-- '"risk factor"'
-- '"alcohol consumption"'
-- '"comorbidity"'
-- '"psychologic assessment"'
-- '"alcohol"'
-- '"beta adrenergic receptor blocking agent"'
-- '"analgesic agent"'
-- '"antihypertensive agent"'
-- '"benzodiazepine"'
-- '"obsessive compulsive disorder"'
-- '"autoregulation"'
-- '"corticosteroid"'
-- '"outpatient care"'
-- '"proton pump inhibitor"'
+tags: ["hrv"]
 categories: []
 date: '2013-01-01'
 lastmod: 2020-08-28T12:54:30+02:00
@@ -60,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-28T10:54:30.225423Z'
 publication_types:
 - 2
@@ -79,4 +50,10 @@ abstract: 'Background: Past research has highlighted an important role of the au
   Results provide important new evidence for a role of the autonomic nervous system
   in the maintenance of dependence disorders. (copyright) 2013 Elsevier Ireland Ltd.'
 publication: '*Drug and Alcohol Dependence*'
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0376871613000847
+
+links:
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
+
 ---

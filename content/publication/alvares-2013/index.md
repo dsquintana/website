@@ -13,32 +13,7 @@ authors:
 - B. W. Balleine
 - I. B. Hickie
 - A. J. Guastella
-tags:
-- '"adult"'
-- '"alcoholism"'
-- '"article"'
-- '"clinical feature"'
-- '"community living"'
-- '"controlled study"'
-- '"disease association"'
-- '"disease marker"'
-- '"disease severity"'
-- '"distress syndrome"'
-- '"fear"'
-- '"female"'
-- '"heart rate variability"'
-- '"help seeking behavior"'
-- '"human"'
-- '"major clinical study"'
-- '"male"'
-- '"psychiatric treatment"'
-- '"psychotropic agent"'
-- '"rest"'
-- '"sex difference"'
-- '"social avoidance behavior"'
-- '"social interaction"'
-- '"social phobia"'
-- '"social status"'
+tags: ["hrv"]
 categories: []
 date: '2013-01-01'
 lastmod: 2020-08-29T14:26:43+02:00
@@ -58,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:42.987334Z'
 publication_types:
 - 2
@@ -87,6 +62,9 @@ abstract: 'Background: Polyvagal theory emphasizes that autonomic nervous system
   impaired stress regulation, and behavioral inhibition, especially in disorders associated
   with significant impairments in these domains.'
 publication: '*PLoS ONE*'
-url_pdf: https://doi.org/10.1371/journal.pone.0070468
 doi: 10.1371/journal.pone.0070468
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1371/journal.pone.0070468'
 ---

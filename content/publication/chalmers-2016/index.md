@@ -11,7 +11,7 @@ authors:
 - Maree J. Abbott
 - Andrew H. Kemp
 - Daniel S. Quintana
-tags: []
+tags: ["hrv"]
 categories: []
 date: '2016-01-01'
 lastmod: 2020-08-29T14:26:43+02:00
@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["hrv"]
 publishDate: '2020-08-29T12:26:43.495312Z'
 publication_types:
 - 2
@@ -56,6 +56,9 @@ abstract: "Background: Individuals with anxiety disorders display reduced restin
   \ cardiac autonomic nervous system and anxiety psychopathology, providing support\
   \ for dimensional-trait models consistent with the Research Domain Criteria framework."
 publication: '*BMC psychology*'
-url_pdf: https://doi.org/10.1186/s40359-016-0138-z
 doi: 10.1186/s40359-016-0138-z
+
+links:
+  - name: Open Access PDF
+    url: 'https://doi.org/10.1186/s40359-016-0138-z'
 ---
