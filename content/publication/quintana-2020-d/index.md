@@ -3,7 +3,7 @@
 
 title: How podcasts can benefit scientific communities
 subtitle: ''
-summary: ''
+summary: 'We describe how podcasts can benefit scientific communities by disseminating career-specific information that is often unwritten and hidden to those outside academic social knowledge networks. We also provide practical advice on how scientists can launch their own podcasts.'
 authors:
 - Daniel S Quintana
 - James Heathers
@@ -31,16 +31,11 @@ projects: ["meta-research"]
 publishDate: '2020-08-29T12:26:47.441954Z'
 publication_types:
 - 3
-abstract: Podcasts are emerging as a popular forum for discussing scientific life.
-  Here, we describe how podcasts can benefit scientific communities by disseminating
-  career-specific information that is often unwritten and unavailable to those outside
-  academic social knowledge networks. We also provide practical advice on how scientists
-  can launch their own podcasts.
-publication: '*PsyArXiv Preprints*' 
-doi: 10.31234/osf.io/ry5x9 License
+abstract: Podcasts are emerging as popular fora for discussing science. Here, we describe how podcasts can benefit scientific communities by disseminating career-specific information that is often unwritten and hidden to those outside academic social knowledge networks. We also provide practical advice on how scientists can launch their own podcasts.
+publication: '*Trends in Cognitive Sciences*'
+url_pdf: https://doi.org/10.1016/j.tics.2020.10.003
+doi: 10.1016/j.tics.2020.10.003
 links:
-  - icon_pack: ai
-    icon: psyarxiv
-    name: Preprint PDF
+  - name: Preprint PDF
     url: 'https://osf.io/ry5x9' 
 ---
