@@ -36,8 +36,8 @@ publication_types:
 - 2
 abstract: The neuropeptide oxytocin has been popularized for its role in social behaviour and nominated as a candidate treatment for several psychiatric illnesses due to promising preclinical results. However, these results so far have failed to reliably translate from animal models to human research. In response, there have been justified calls to improve intranasal oxytocin delivery methodology in terms of verifying that intranasal administration increases central levels of oxytocin. Nonetheless, improved methodology needs to be coupled with a robust theory of the role of oxytocin in behaviour and physiology to ask meaningful research questions. Moreover, stringent methodology based on robust theory may yield interesting results, but such findings will have limited utility if they are not reproducible. We outline how the precision of intranasal oxytocin research can be improved by the complementary consideration of methodology, theory and reproducibility.
 publication: '*Nature Human Behaviour*'
-url_pdf: https://doi.org/10.1038/s41386-018-0241-3
-doi: 10.1038/s41386-018-0241-3
+url_pdf: https://doi.org/10.1038/s41562-020-00996-4
+doi: 10.1038/s41562-020-00996-4
 
 links:
   - name: Preprint PDF
