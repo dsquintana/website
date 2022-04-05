@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Daniel S. Quintana is a Senior Researcher at the Department of Psycology University of Oslo. He leads a lab investigating biological systems that link psychological and social factors to health, with a focus on neuroendocrine systems and the autonomic nervous system. 
+Daniel S. Quintana is a Senior Researcher at the Department of Psychology University of Oslo. He leads a lab investigating biological systems that link psychological and social factors to health, with a focus on neuroendocrine systems and the autonomic nervous system. 
 
 He currently leads a project investigating the role of the oxytocin system in the development of severe mental illness and metabolic disorder, which is supported by an Excellence Project for Young Researchers grant from the Novo Nordisk Foundation.
 
