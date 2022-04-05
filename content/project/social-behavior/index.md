@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Social behavior"
-summary: "Investigating the neurobiological basis of social dysfunction"
+summary: "Investigating the neurobiological basis of social dysfunction and how this influences mental and somatic health"
 authors: []
 tags: ["social-behavior"]
 categories: []

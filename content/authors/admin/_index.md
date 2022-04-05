@@ -44,8 +44,8 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Daniel S. Quintana is a Senior Researcher at the Department of Psychology, University of Oslo. He leads a lab investigating biological systems that link psychological and social factors to health, with a focus on neuroendocrine systems and the autonomic nervous system. 
+Daniel S. Quintana is a Senior Researcher at the Department of Psychology, University of Oslo. He leads a lab investigating biological systems that link psychological and social factors to health, with a focus on neuroendocrine systems (e.g., oxytocin) and the autonomic nervous system. His lab uses various research approaches, including intranasal oxytocin trials, large-scale genetics studies, neuroimaging, and the collection of autonomic nervous system data (e.g., heart rate variability).
 
-He currently leads a project investigating the role of the oxytocin system in health and wellbeing.
+Daniel is the Principal Investigator of projects investigating the role of the oxytocin system in mental traits and physical health (Research Council of Norway), the role of oxytocin in behavioral flexibility (Research Council of Norway), and an oxytocin treatment trial to improve social skills and behavioral flexibility in youth with autism (Kavli Trust). In December 2022 he will begin a project uncovering the role of oxytocin in neural plasticity and learning in autism (South-Eastern Norway Regional Health Authority).
 
 [Subscibe to his newsletter](http://eepurl.com/YzZWf) to keep informed with his latest research and projects

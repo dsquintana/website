@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Oxytocin"
-summary: "Examining how the oxytocin system impacts mental states and physiology"
+summary: "Examining how the oxytocin system impacts mental and somatic health"
 authors: []
 tags: ["oxytocin"]
 categories: []

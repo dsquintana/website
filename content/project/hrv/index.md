@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Heart rate variability"
-summary: "Understanding the role of heart rate variability in the development and maintenance of mental illnesses"
+summary: "Understanding the role of the autonomic nervous system, as measured by heart rate variability, in mental and somatic health"
 authors: []
 tags: ["hrv"]
 categories: []
