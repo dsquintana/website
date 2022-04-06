@@ -40,5 +40,5 @@ url_video: ""
 slides: ""
 ---
 
-Heart rate variability (HRV) refers to various methods of assessing the beat-to-beat variation in the heart over time, in order to draw inference on the outflow of the autonomic nervous system. My research in this area explores the role HRV and other cardiorespiratory oscillations (e.g., respiration) on the development and maintenance of mental illnesses. I also explore how HRV influences various mental processes (e.g., social cognition) and factors that can influence the measurement of HRV (e.g., sleep and liquid consumption).
+Heart rate variability (HRV) refers to various methods of assessing the beat-to-beat variation in the heart over time, in order to draw inference on the outflow of the autonomic nervous system. My research in this area explores the role HRV and other cardiorespiratory oscillations (e.g., respiration) on the development and maintenance of mental illnesses and how this influences somatic illnesses, such as cardiovascular disease. I also explore how HRV influences various mental processes (e.g., social cognition) and factors that can influence the measurement of HRV (e.g., sleep and liquid consumption).
 

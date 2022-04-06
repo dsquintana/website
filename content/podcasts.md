@@ -10,7 +10,7 @@ share = false
 # caption = ""
 +++
 
-Daniel co-hosts [Everything Hertz](https://everythinghertz.com/), which is a podcast on methodology and scientific life in the biobehavioral sciences. Episodes are released on the first and third Monday of every month. 
+Daniel is the producer and co-host of [Everything Hertz](https://everythinghertz.com/), which is a podcast on methodology and scientific life in the biobehavioral sciences. Episodes are released on the first and third Monday of every month. 
 
 He also hosts the [Physiology and Behavior](https://shows.acast.com/dsquintana) podcast, which features a mix of episodes on research that's catching his eye in biological psychology, interviews with other scientists, and Dan his day-to-day research process.  
 

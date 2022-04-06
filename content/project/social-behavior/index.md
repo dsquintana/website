@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-Several psychiatric illnesses are characterised by impairments in the perception, interpretation and generation of responses to the intention, dispositions and behaviors of others - otherwise known as social cognition. Research in this area investigates the neurobiological basis of social cognition in both psychiatric and non-psychiatric populations using neurophysiological measures.
+Several psychiatric illnesses are characterised by impairments in the perception, interpretation and generation of responses to the intention, dispositions and behaviors of others - otherwise known as social cognition. Research in this area investigates the neurobiological basis of social cognition in both psychiatric and non-psychiatric populations using neurophysiological measures, and how this influences somatic health.
