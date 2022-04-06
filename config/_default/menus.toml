@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Research"
-  url = "#projects"
+  name = "Google Scholar"
+  url = "https://scholar.google.no/citations?user=3BsdBosAAAAJ&hl=en"
   weight = 20
 
 [[main]]
@@ -32,6 +32,11 @@
   name = "Podcasts"
   url = "/podcasts"
   weight = 50
+
+[[main]]
+name = "YouTube"
+url = "https://www.youtube.com/user/dsquintana85"
+weight = 50
 
 [[main]]
   name = "CV"

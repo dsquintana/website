@@ -18,6 +18,7 @@ He also hosts the [Physiology and Behavior](https://shows.acast.com/dsquintana) 
 
 Daniel has also featured as a guest on several podcasts:
 
+- Nice to Know - Conversations with Everyday Scientists: [Cuddle Hormones](https://www.buzzsprout.com/1050370/8054652)
 - The ORION Open Science Podcast: [Life Sciences in the Fast Lane](https://www.podbean.com/media/share/pb-c4iuc-c94bcb?utm_campaign=au_share_ep&utm_medium=dlink&utm_source=au_share).
 - The PT Inquest podcast: [The science of science](https://ptpodcast.com/pt-inquest-episode-193-the-science-of-science/).
 - The STEMculture Podcast: [Reviews, Reviewers, and Rejections](https://www.stemculturepodcast.com/11_reviewsreviewersrejections/).

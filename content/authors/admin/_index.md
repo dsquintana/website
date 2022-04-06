@@ -48,4 +48,4 @@ Daniel S. Quintana is a Senior Researcher at the Department of Psychology, Unive
 
 Daniel is the Principal Investigator of externally-funded projects investigating the role of the oxytocin system in mental traits and physical health (Research Council of Norway), the role of oxytocin in behavioral flexibility (Research Council of Norway), and an oxytocin treatment trial to improve social skills and behavioral flexibility in youth with autism (Kavli Trust). In December 2022 he will begin a project uncovering the role of oxytocin in neural plasticity and learning in autism (South-Eastern Norway Regional Health Authority).
 
-[Subscibe to his newsletter](http://eepurl.com/YzZWf) to keep informed with his latest research and projects
+[Subscibe to his newsletter](https://www.getrevue.co/profile/dsquintana) to keep informed with his latest research and projects.
