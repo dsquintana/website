@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "daniel.quintana@medisin.uio.no"
+email = "daniel.quintana@psykologi.uio.no"
 phone = "(+47) 2302 7350"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Ullevål Hospital", city = "Oslo", postcode = "N-0424", country = "Norway", country_code = "NO"}
+address = {street = "Forskningsveien 3A", city = "Oslo", postcode = "0373", country = "Norway", country_code = "NO"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "59.939305", longitude = "10.744342"}
+coordinates = {latitude = "59.94325772802638", longitude = "10.713581469793391"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
