@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Talks"
-  url = "/talk/"
+  name = "Workshops"
+  url = "/Workshops/"
   weight = 40
 
 [[main]]
