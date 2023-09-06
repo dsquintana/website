@@ -1,6 +1,6 @@
 ---
 title: Daniel S. Quintana
-role: Senior Researcher
+role: Associate Professor
 organizations:
   - name: University of Oslo
     url: ""
