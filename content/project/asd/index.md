@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Autism Spectrum Disorder"
-summary: "Investigating the pathogenesis and maintenance of Autism Spectrum disorder (ASD)"
+title: "Autism"
+summary: "Investigating the neurobiology of autism differences"
 authors: []
 tags: ["asd"]
 categories: []
