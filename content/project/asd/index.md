@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-Autism spectrum disorder (ASD) is the collective term for a number of neurodevelopmental disorders characterised by qualitative impairments in social interaction and communication, and a restricted range of activities. This research project uses various research approaches to investigate pathogenesis and maintenance of ASD and investigates the neuropeptide oxytocin as a potential treatment to help address social difficulties and behavioral inflexibility.
+Autism is a neurodevelopmental difference characterised by specific experiences and characteristics which is often associated with additional support needs. This research project uses various research approaches to better understand autism differences and investigates the neuropeptide oxytocin as a potential support for autistic individuals.
